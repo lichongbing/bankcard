@@ -21,28 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a509ae0-9b12-4ab4-a3bc-0d7ec01184ef" name="默认的" comment="init">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-46-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-46-04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-46-18.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-46-18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-46-27.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-46-27.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-46-46.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-46-46.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-46-55.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-46-55.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-47-14.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-47-14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-48-14.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-48-14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-48-26.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-48-26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-48-36.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-48-36.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-48-57.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-48-57.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-49-39.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-49-39.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-49-46.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-49-46.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-50-20.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-50-20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-50-48.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-50-48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-51-25.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-51-25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-51-33.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-51-33.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-51-42.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-51-42.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-51-48.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-51-48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-52-12.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-52-12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/Snipaste_2020-09-26_07-53-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Snipaste_2020-09-26_07-53-02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/index.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/index.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/截图/后台登录.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/后台登录.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601080555887</updated>
       <workItem from="1601080557022" duration="3639000" />
-      <workItem from="1613505806136" duration="194000" />
+      <workItem from="1613505806136" duration="420000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1601081983318</created>
@@ -127,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601083688889</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1613506065765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613506065765</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
